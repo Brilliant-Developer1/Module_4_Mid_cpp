@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "*html": "html",
+        "stdio.h": "c",
+        "__bit_reference": "c",
+        "bitset": "c",
+        "chrono": "c",
+        "unordered_map": "c",
+        "algorithm": "c",
+        "iostream": "cpp",
+        "new": "cpp",
+        "ostream": "cpp",
+        "random": "cpp",
+        "array": "cpp"
+    }
+}
